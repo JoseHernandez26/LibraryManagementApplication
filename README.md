@@ -27,7 +27,7 @@ After it retrives the id of the book to link with books(Book_id).
 
 ![imagen](https://user-images.githubusercontent.com/91498578/180329723-34d6c878-998c-4627-8aa7-a6f5c9da5cbb.png)
 
-There are missing details as to return the book.(it is in process for lack of time)
+There are missing details as to return the book.(it is in process for lacking of time)
 
 #Update book
 
