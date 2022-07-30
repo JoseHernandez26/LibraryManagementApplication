@@ -55,7 +55,7 @@
             <li><a href="${pageContext.request.contextPath}/site?page=home">HOME</a></li>
             <li ><a href="${pageContext.request.contextPath}/operation?page=listbooks"">Display Book</a></li>
             <li ><a href="${pageContext.request.contextPath}/operation?page=addbooks"">Register Book</a></li>
-                        <li ><a href="${pageContext.request.contextPath}/operation?page=listrecords"">Records Of Books</a></li>
+                        <li ><a href="${pageContext.request.contextPath}/operation?page=listrecords"">Records of Lend books </a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
